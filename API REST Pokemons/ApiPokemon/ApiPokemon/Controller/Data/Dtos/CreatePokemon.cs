@@ -7,7 +7,7 @@ namespace ApiPokemon.Controller.Data.Dtos
 {
     public class CreatePokemon
     {
-        public int Codigo { get; set; }
+        
         public string Nome { get; set; }
         public string Tipo { get; set; }
     }

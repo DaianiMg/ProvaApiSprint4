@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj": {}
+    "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj": {}
   },
   "projects": {
-    "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj": {
+    "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
+        "projectUniqueName": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
         "projectName": "ApiPokemon",
-        "projectPath": "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
+        "projectPath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
         "packagesPath": "C:\\Users\\Daiani\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\obj\\",
+        "outputPath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daiani\\AppData\\Roaming\\NuGet\\NuGet.Config",

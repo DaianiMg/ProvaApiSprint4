@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace ApiPokemon.Controller
 {
     [ApiController]
-    [Route("[api/controller]")]
+    [Route("api/[controller]")]
     public class PokemonController : ControllerBase
     {
         private RepositoryPokemon _repo;

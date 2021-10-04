@@ -9,6 +9,7 @@ namespace ApiPokemon.Profiles
         public PokemonProfiles()
         {
             CreateMap<CreatePokemon, Pokemon>();
+            CreateMap<Pokemon, CreatePokemon>();
         }
     }
 }

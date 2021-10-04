@@ -21,7 +21,7 @@ namespace ApiPokemon
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<RepositoryPokemon>(opts => opts.UseMySQL(Configuration.GetConnectionString("PokemonConnection")));
+            services.AddDbContext<RepositoryPokemon>(opts => opts.UseMySQL(Configuration.GetConnectionString("pokemon")));
 
             services.AddControllers();
             

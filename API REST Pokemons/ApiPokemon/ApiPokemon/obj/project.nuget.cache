@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9gAsR/J8g635C3wuzTw0v9Lm40ypoDDKlSzSc6R4HbYbGNtrIZKzPawMpel2Qn2NpgOON6ddnibdmrv52SXuaQ==",
+  "dgSpecHash": "PfJtpolrQR5ETspNCLWC7oB3NKdT3+shovorQxxRX6P/JDhDchYLDiOnpdXBzk/jszd0lx2L2/+DiJgZKZKUkQ==",
   "success": true,
-  "projectFilePath": "D:\\Usuario\\Desktop\\Prova sprint 4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
+  "projectFilePath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\API REST Pokemons\\ApiPokemon\\ApiPokemon\\ApiPokemon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daiani\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Daiani\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
