@@ -14,8 +14,10 @@ namespace Exercicio02.Dados
         {
             builder.ToTable("FuncoesFuncionarios");
 
-            builder.Property<Guid>("FuncionarioId").IsRequired();
-            builder.Property<int>("FuncaoId").IsRequired();
+            builder.Property<Guid>("FuncionarioId")
+                .IsRequired();
+            builder.Property<int>("FuncaoId")
+                .IsRequired();
             
 
             builder.HasKey("FuncionarioId", "FuncaoId");

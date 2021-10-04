@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4WLZ25sH2lgYWClMC3NItxjS6YpJ9Ddhe4lZRUbAEg1meauBvzWGdnaLF5uW7B1fm9eklfwXWm2li4WS/QQQjw==",
+  "dgSpecHash": "DCbBr4stJ+NCeP0UMzk/+wAxQSKbwhLa+cvUWzrJBt0ETQwVz2R2bhDWYAJyBA2efbIYus7gBTyHMpLq9E366w==",
   "success": true,
-  "projectFilePath": "D:\\Usuario\\Desktop\\Prova sprint 4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
+  "projectFilePath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daiani\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Daiani\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

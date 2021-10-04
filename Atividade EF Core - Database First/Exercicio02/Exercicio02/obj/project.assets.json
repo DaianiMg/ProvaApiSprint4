@@ -6719,11 +6719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuario\\Desktop\\Prova sprint 4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
+      "projectUniqueName": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
       "projectName": "Exercicio02",
-      "projectPath": "D:\\Usuario\\Desktop\\Prova sprint 4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
+      "projectPath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\Exercicio02.csproj",
       "packagesPath": "C:\\Users\\Daiani\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuario\\Desktop\\Prova sprint 4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\obj\\",
+      "outputPath": "D:\\Usuario\\Documents\\GitHub\\ProvaApiSprint4\\Atividade EF Core - Database First\\Exercicio02\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daiani\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -47,7 +47,7 @@ namespace Exercicio02.Dados
 
             builder
                 .Property<DateTime>("UltimaAtualizacao")
-                .HasColumnType("datetime")
+                .HasColumnType("datetime2")
                 .HasDefaultValueSql("getdate()")
                 .IsRequired();
 
